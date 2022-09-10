@@ -1,2 +1,2 @@
-# who-am-i
-My main personal portfolio website that will tell who is Thessa
+# WHO AM I
+Who is Thessa? Let's Find Out!
